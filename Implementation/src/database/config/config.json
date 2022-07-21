@@ -4,7 +4,7 @@
     "password": "ecommerce",
     "database": "ecommerce",
     "host": "0.0.0.0",
-    "port": 49154,
+    "port": 49153,
     "dialect": "postgres"
   },
   "test": {
